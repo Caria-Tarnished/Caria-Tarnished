@@ -178,6 +178,6 @@
   </table>
 </p>
 
-<p>?<img align="center" src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&locale=en" alt="caria-tarnished" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&locale=en" alt="caria-tarnished" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caria-tarnished&" alt="caria-tarnished" /></p>
