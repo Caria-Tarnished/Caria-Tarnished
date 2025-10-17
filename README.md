@@ -175,8 +175,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&locale=en&theme=transparent" alt="caria-tarnished" /></td>
-      <td><img align="center" src="https://streak-stats.demolab.com?user=caria-tarnished&theme=radical" alt="caria-tarnished" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&locale=en&theme=transparent" alt="caria-tarnished's Stats" /></td>
+      <td><img align="center" src="https://streak-stats.demolab.com/?user=caria-tarnished&theme=radical" alt="caria-tarnished's Streak" /></td>
     </tr>
   </table>
 </div>
