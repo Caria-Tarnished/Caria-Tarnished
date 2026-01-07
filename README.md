@@ -1,12 +1,20 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caria-tarnished&label=Profile%20views&color=0e75b6&style=flat" alt="caria-tarnished" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=caria-tarnished&label=Profile%20views&color=0e75b6&style=flat" alt="caria-tarnished" /> 
+</p>
+
+<h1 align="center">Hi there, I'm Caria-Tarnished 👋</h1>
+
+<div align="center">
 
 - 🔭 I'm currently learning **Quantitative Trading | Pine Script | Python | Full Stack Development**
 - 📊 I can use Pine Script to write trading strategies
 - 🐍 I mainly use Python for data analysis and deep learning tasks
 - 💬 Feel free to reach out if you're interested in trading algorithms or data science collaboration
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="mailto:z16376392474@163.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -16,7 +24,6 @@
 <p align="center">
   <table align="center">
     <tr>
-      <!-- Programming Languages -->
       <td align="center" width="80">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -49,7 +56,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Web Development -->
       <td align="center" width="80">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -82,7 +88,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Data Science & AI -->
       <td align="center" width="80">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -115,7 +120,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Deep Learning -->
       <td align="center" width="80">
         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -128,7 +132,6 @@
         </a>
         <br>OpenCV
       </td>
-      <!-- Tools & Others -->
       <td align="center" width="80">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -149,7 +152,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Design & Other Tools -->
       <td align="center" width="80">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -174,10 +176,24 @@
         </a>
         <br>MATLAB
       </td>
+      <td align="center" width="80">
+         </td>
     </tr>
   </table>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&locale=en" alt="caria-tarnished" /></p>
+<h3 align="center">Github Statistics:</h3>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caria-tarnished&" alt="caria-tarnished" /></p>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph-server">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caria-tarnished&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</a>
+
+<br/><br/>
+
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=caria-tarnished&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="caria-tarnished" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caria-tarnished&theme=tokyonight&hide_border=true" alt="caria-tarnished" />
+</p>
+
+</div>
